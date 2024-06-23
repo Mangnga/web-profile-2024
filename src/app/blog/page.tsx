@@ -20,7 +20,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
                 <h2 className="text-xl font-bold text-gray-800 mb-4">
-                  As “Developers” indeed we are the student of the world
+                The Invincible Iron Man
                 </h2>
                 <p className="text-gray-600 mb-10">
                 Iron Man "โทนี่" สตาร์ค  เป็นตัวละครของมาร์เวลคอมิกส์ รู้จักกันในนามมนุษย์เกราะเหล็กเขาเป็นคนที่ร่ำรวยมาก และมีชุดเกราะหลายเวอร์ชั่น ไอรอนแมนปรากฏตัวใน อเวนเจอร์ส ซึ่งเป็นที่รวมกลุ่มคนที่เป็นซูเปอร์ฮีโร่
@@ -34,7 +34,7 @@ export default function Home() {
               </div>
               <div>
                 <img
-                  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2tYSCDFH-frWWb1veAV86Q.png"
+                  src="/blog1.jpg"
                   alt="Blog post image"
                   className="w-full h-48 object-cover mb-4"
                 />
