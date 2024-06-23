@@ -1,7 +1,7 @@
 import { MoveLeft } from "lucide-react";
 import Link from "next/link";
 
-export default function blog() {
+export default function Home() {
   return (
     <main className="container bg-blue-100 min-h-screen max-w-none p-24">
       <div className="container mx-auto px-40">
@@ -23,8 +23,7 @@ export default function blog() {
                   As “Developers” indeed we are the student of the world
                 </h2>
                 <p className="text-gray-600 mb-10">
-                  ในฐานะนักพัฒนาซอฟต์แวร์
-                  แท้ที่จริงแล้วเราก็คือนักเรียนของโลกใบนี้เสมอ
+                Iron Man "โทนี่" สตาร์ค  เป็นตัวละครของมาร์เวลคอมิกส์ รู้จักกันในนามมนุษย์เกราะเหล็กเขาเป็นคนที่ร่ำรวยมาก และมีชุดเกราะหลายเวอร์ชั่น ไอรอนแมนปรากฏตัวใน อเวนเจอร์ส ซึ่งเป็นที่รวมกลุ่มคนที่เป็นซูเปอร์ฮีโร่
                 </p>
                 <Link
                   href="/blog/as-developers-indeed-we-are-the-student-of-the-world"
